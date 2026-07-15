@@ -3,7 +3,7 @@
 **Hack2Care** is a modern, AI-powered emergency response and first aid assistance platform designed to provide immediate guidance during critical situations, such as road accidents or medical emergencies.
 
 ### 🔗 Live Link
-[**View Live Demo**](INSERT_LINK_HERE)
+[**View Live Demo**](https://hack2care-1.onrender.com)
 
 The application combines real-time patient assessment, AI-generated first aid instructions, and geolocation services to help bystanders provide life-saving support before professional medical help arrives.
 
